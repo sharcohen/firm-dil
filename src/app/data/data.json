@@ -1,0 +1,258 @@
+[
+  {
+    "id": "0000001",
+    "updateTime": "2023-05-03T10:52:56.544Z",
+    "description": "Sheet AV0 not found in drawing set",
+    "riskLevel": "Medium",
+    "status": "New",
+    "package": "Sheets",
+    "type": "Missing sheet",
+    "locations": [
+      {
+        "pageNumber": "A2.00",
+        "pageTitle": "Drawing Index",
+        "min": {
+          "x": 0.6193928571428572,
+          "y": 0.7346731481481482
+        },
+        "max": {
+          "x": 0.6411018518518519,
+          "y": 0.7391837962962963
+        }
+      }
+    ]
+  },
+  {
+    "id": "0000002",
+    "updateTime": "2023-05-03T10:52:56.544Z",
+    "description": "Missing door tag",
+    "riskLevel": "Critical",
+    "status": "Active",
+    "package": "Doors",
+    "type": "Element missing tag",
+    "locations": [
+      {
+        "pageNumber": "A2.00",
+        "pageTitle": "Level 1-A Floor plan",
+        "level": "1-A",
+        "roomNumber": "123",
+        "min": {
+          "x": 0.10624093915343916,
+          "y": 0.3372157870370371
+        },
+        "max": {
+          "x": 0.11579381613756613,
+          "y": 0.35073212962962965
+        }
+      }
+    ]
+  },
+  {
+    "id": "0000003",
+    "updateTime": "2023-05-03T10:52:56.544Z",
+    "description": "Frame type not consistent with plan",
+    "riskLevel": "Low",
+    "status": "Active",
+    "package": "Doors",
+    "type": "Tag not consistent",
+    "locations": [
+      {
+        "pageNumber": "A4.00",
+        "pageTitle": "Level 1-A Floor plan",
+        "level": "1-A",
+        "roomNumber": "106",
+        "min": {
+          "x": 0.6153978174603174,
+          "y": 0.35455555555555559
+        },
+        "max": {
+          "x": 0.6182896825396825,
+          "y": 0.429842962962963
+        }
+      },
+      {
+        "pageNumber": "A2.00",
+        "pageTitle": "Door Schedule"
+      },
+      {
+        "pageNumber": "A7.00",
+        "pageTitle": "Door Types"
+      }
+    ]
+  },
+  {
+    "id": "0000004",
+    "updateTime": "2023-05-03T10:52:56.544Z",
+    "description": "Sheet AV0.1 not found in drawing set",
+    "riskLevel": "Low",
+    "status": "Active",
+    "package": "Sheets",
+    "type": "Missing sheet",
+    "locations": [
+      {
+        "pageNumber": "A2.00",
+        "pageTitle": "Drawing Index",
+        "min": {
+          "x": 0.6194609788359788,
+          "y": 0.7262439814814815
+        },
+        "max": {
+          "x": 0.6411699735449735,
+          "y": 0.7307546296296297
+        }
+      }
+    ]
+  },
+  {
+    "id": "0000005",
+    "updateTime": "2023-05-03T10:52:56.544Z",
+    "description": "Sheet AV0.2 not found in drawing set",
+    "riskLevel": "Medium",
+    "status": "Active",
+    "package": "Sheets",
+    "type": "Missing Sheet",
+    "locations": [
+      {
+        "pageNumber": "A2.00",
+        "pageTitle": "Drawing Index",
+        "min": {
+          "x": 0.6194503968253968,
+          "y": 0.7179773148148148
+        },
+        "max": {
+          "x": 0.6411593915343915,
+          "y": 0.722487962962963
+        }
+      }
+    ]
+  },
+  {
+    "id": "0000006",
+    "updateTime": "2023-05-03T10:52:56.544Z",
+    "description": "Missing door tag",
+    "riskLevel": "Low",
+    "status": "Active",
+    "package": "Doors",
+    "type": "Element missing tag",
+    "locations": [
+      {
+        "pageNumber": "A2.00",
+        "pageTitle": "Level 1-A Floor plan",
+        "level": "1-A",
+        "roomNumber": "127A;128A",
+        "min": {
+          "x": 0.1722368386243386,
+          "y": 0.1387788888888889
+        },
+        "max": {
+          "x": 0.18395357142857145,
+          "y": 0.1517925
+        }
+      }
+    ]
+  },
+  {
+    "id": "0000007",
+    "updateTime": "2023-05-03T10:52:56.544Z",
+    "description": "Missing door tag",
+    "riskLevel": "Low",
+    "status": "Active",
+    "package": "Doors",
+    "type": "Element missing tag",
+    "locations": [
+      {
+        "pageNumber": "A2.00",
+        "pageTitle": "Level 1-A Floor plan",
+        "level": "1-A",
+        "roomNumber": "127A;128A",
+        "min": {
+          "x": 0.22641292989417989,
+          "y": 0.13884694444444446
+        },
+        "max": {
+          "x": 0.23812966269841269,
+          "y": 0.15186055555555556
+        }
+      }
+    ]
+  },
+  {
+    "id": "0000008",
+    "updateTime": "2023-05-03T10:52:56.544Z",
+    "description": "Missing wall tag",
+    "riskLevel": "Low",
+    "status": "Active",
+    "package": "Wall Partitions",
+    "type": "Element missing tag",
+    "locations": [
+      {
+        "pageNumber": "A2.00",
+        "pageTitle": "Level 1 Floor plan",
+        "level": "1",
+        "roomNumber": "116",
+        "min": {
+          "x": 0.47527215608465608,
+          "y": 0.3692928240740741
+        },
+        "max": {
+          "x": 0.49086474867724869,
+          "y": 0.37301055555555559
+        }
+      },
+      {
+        "pageNumber": "A5.00",
+        "pageTitle": "Wall Types"
+      }
+    ]
+  },
+  {
+    "id": "0000009",
+    "updateTime": "2023-05-03T10:52:56.544Z",
+    "description": "Missing wall tag",
+    "riskLevel": "Low",
+    "status": "Active",
+    "package": "Wall Partitions",
+    "type": "Element missing tag",
+    "locations": [
+      {
+        "pageNumber": "A2.00",
+        "pageTitle": "Level 1 Floor plan",
+        "level": "1",
+        "roomNumber": "109;110",
+        "min": {
+          "x": 0.521969246031746,
+          "y": 0.638850462962963
+        },
+        "max": {
+          "x": 0.525188492063492,
+          "y": 0.6941189814814816
+        }
+      }
+    ]
+  },
+  {
+    "id": "0000010",
+    "updateTime": "2023-05-03T10:52:56.544Z",
+    "description": "Missing wall tag",
+    "riskLevel": "Low",
+    "status": "Active",
+    "package": "Wall Partitions",
+    "type": "Element missing tag",
+    "locations": [
+      {
+        "pageNumber": "A2.00",
+        "pageTitle": "Level 1 Floor plan",
+        "level": "1",
+        "roomNumber": "124",
+        "min": {
+          "x": 0.07264722222222223,
+          "y": 0.2681799537037037
+        },
+        "max": {
+          "x": 0.08851223544973545,
+          "y": 0.27237430555555555
+        }
+      }
+    ]
+  }
+]
